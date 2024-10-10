@@ -1,0 +1,95 @@
+Entra en el menu Principal
+Entra en el menu Gerente
+Entra en el menu Principal
+Se cierra el menú
+Entra en el menu Principal
+Entra en el menu Gerente
+Entra en el menu Principal
+Se cierra el menú
+Entra en el menu Principal
+Entra en el menu Gerente
+Se crea un nuevo cliente
+Entra en el menu Principal
+Entra en el menu Gerente
+Se crea un nuevo cliente
+Entra en el menu Principal
+Entra en el menu Gerente
+Se crea un nuevo cliente
+Entra en el menu Principal
+Se cierra el menú
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Se cierra el menú
+Entra en el menu Principal
+Entra en el menu Empleado
+Se calcula el total de ventas diario
+Error tipo I/O en el menú o alguna de sus opciones
+Entra en el menu Principal
+Entra en el menu Empleado
+Se calcula el total de ventas diario
+Error tipo I/O en el menú o alguna de sus opciones
+Entra en el menu Principal
+Entra en el menu Empleado
+Se calcula el total de ventas diario
+Error tipo I/O en el menú o alguna de sus opciones
+Entra en el menu Principal
+Entra en el menu Empleado
+Se calcula el total de ventas diario
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se calcula el total de ventas diario
+Error tipo I/O en el menú o alguna de sus opciones
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se calcula el total de ventas diario
+Error tipo I/O en el menú o alguna de sus opciones
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se calcula el total de ventas diario
+Error tipo I/O en el menú o alguna de sus opciones
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se calcula el total de ventas diario
+Error tipo I/O en el menú o alguna de sus opciones
+Entra en el menu Principal
+Entra en el menu Gerente
+Se crea un nuevo cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se añade compra a un cliente
+Entra en el menu Principal
+Entra en el menu Empleado
+Se calcula el total de ventas diario
+Error tipo I/O en el menú o alguna de sus opciones
